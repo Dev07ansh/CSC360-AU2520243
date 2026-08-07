@@ -1,0 +1,13 @@
+Reflection on My First Class of Computer Graphics and Digital Image Processing
+
+The class started with introduction to the course structure and objectives. Our professor explained what computer graphics is. So, basically it is the field that deals with creating, displaying, and manipulating visual content using computers. This helped me understand that graphics are some what generated using mathematical and computational techniques.
+
+We were then introduced to two-dimensional (2D) graphics. One of the first concepts discussed was what a line is and how a line can be drawn on a computer like we need min two point on space to draw a line. After that, we discussed about curves and the basic difference between a line and a curve. A line follows a single direction, while a curve changes its direction continuously and is represented using different mathematical approaches. Also, curves need more then two point to be drawn. This comparison helped me understand how different shapes are represented in computer graphics. The next topic was area rendering, which is used for filling areas in graphical applications.
+
+The lecture then shifted toward digital image processing. We discussed what an image is and how it is represented in pixel form. I learned that a digital image is made up of many tiny units called pixels, and each pixel stores color information and pixel is the smallest unit to store i.e why we store in pixel. The concept of RGB (Red, Green, Blue) was also introduced, showing how different color combinations are created by varying the intensity of these three primary colors. 
+
+Continuing with pixels, we also learned about videos. The professor explained that a video is essentially a collection of multiple images (frames) displayed continuously at a certain number of frames per second (FPS). When these frames are shown quickly one after another, the human eye perceives them as smooth motion. We discussed that for the human eye, motion begins to appear continuous at around 14–20 FPS, which helped me understand the relationship between images and video technology.
+
+Finally, we were introduced to ImageJ, the software that we will use for practical work in digital imaging. Since I have never worked with image-processing tools before, I am looking forward to using ImageJ to experiment with images and understand the concepts practically rather than only theoretically.
+
+Overall, this first class was informative and engaging. Even though I entered the course with no prior background in computer graphics or digital image processing, the lecture provided me that the concepts learned in this course will help me in understanding visual technologies we use every day.
