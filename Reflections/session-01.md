@@ -1,4 +1,4 @@
-Reflection on My First Class of Computer Graphics and Digital Image Processing
+# Reflection on My First Class of Computer Graphics and Digital Image Processing
 
 The class started with introduction to the course structure and objectives. Our professor explained what computer graphics is. So, basically it is the field that deals with creating, displaying, and manipulating visual content using computers. This helped me understand that graphics are some what generated using mathematical and computational techniques.
 

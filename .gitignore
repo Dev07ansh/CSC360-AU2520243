@@ -1,0 +1,37 @@
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Maven build output
+/target/
+**/target/
+
+# Maven release metadata
+pom.xml.releaseBackup
+
+# Gradle build output
+.gradle/
+build/
+**/build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+
+# Temporary/editor files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
