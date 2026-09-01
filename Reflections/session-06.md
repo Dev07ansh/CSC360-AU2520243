@@ -12,7 +12,7 @@ session-06-25/08/26
 Java, Compiler, POM file, Thread safety, Swing, JavaFX, Multitasking, UI freezing, Cold start
 
 
-## List of topics discussed
+## List of topics discussed:
 - **Build Tools and Project Structure** – compilers, POM files, and standard directory conventions
 - **UI Frameworks and Threading** – Swing/JavaFX components, accessibility, and thread safety
 - **Threads and Processes** – what they are, and when (not) to use threads

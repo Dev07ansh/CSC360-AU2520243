@@ -12,7 +12,7 @@ session-07-27/08/26
 Maven, Transitive Dependency, CI/CD, Release Management, Unit Testing, JUnit, Backward Compatibility, Character Sets
 
 
-## List of topics discussed
+## List of topics discussed:
 - **Maven and Dependency Management** – transitive dependencies and automated artifact fetching
 - **CI/CD and Release Management** – automating build, test, and deployment pipelines
 - **Versioning and Compatibility** – source vs. target versions and backward compatibility
